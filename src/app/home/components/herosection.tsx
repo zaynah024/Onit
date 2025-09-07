@@ -67,7 +67,7 @@ const HeroSection = () => {
           </p>
 
           <a
-            href="#"
+            href="/contact"
             className="rounded-md transition-all shadow-md text-white font-inter font-bold text-lg flex items-center justify-center"
             style={{
               width: "201px",

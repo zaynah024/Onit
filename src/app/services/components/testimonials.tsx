@@ -84,7 +84,7 @@ const TestimonialsSection: React.FC = () => {
 
   return (
 <div className="-sm:mt-50">
-  <section className="pt-8 pb-12 px-4 sm:py-16 sm:px-6 lg:px-8" style={{ backgroundColor: "#C04F4705" }}>
+  <section className="pt-32 pb-12 px-4 sm:py-16 sm:px-6 lg:px-8" style={{ backgroundColor: "#C04F4705" }}>
       <div className="text-center mb-12">
         <span className="text-sm font-semibold bg-gray-200 px-4 py-1 rounded-full">
           <span className="bg-gradient-to-r from-[#E2335F] to-[#792F6C] bg-clip-text text-transparent">
