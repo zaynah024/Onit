@@ -83,50 +83,52 @@ const TestimonialsSection: React.FC = () => {
   }, []);
 
   return (
-<div className="-sm:mt-50">
-  <section className="pt-32 pb-12 px-4 sm:py-16 sm:px-6 lg:px-8" style={{ backgroundColor: "#C04F4705" }}>
-      <div className="text-center mb-12">
-        <span className="text-sm font-semibold bg-gray-200 px-4 py-1 rounded-full">
-          <span className="bg-gradient-to-r from-[#E2335F] to-[#792F6C] bg-clip-text text-transparent">
-            Testimonials
+    // Added mt-20 for mobile, mt-0 for sm and above
+    <div className="mt-20 sm:mt-0">
+      <section className="pt-32 pb-12 px-4 sm:py-16 sm:px-6 lg:px-8" style={{ backgroundColor: "#C04F4705" }}>
+        <div className="text-center mb-12">
+          <span className="text-sm font-semibold bg-gray-200 px-4 py-1 rounded-full">
+            <span className="bg-gradient-to-r from-[#E2335F] to-[#792F6C] bg-clip-text text-transparent">
+              Testimonials
+            </span>
           </span>
-        </span>
 
-        <h2 className="mt-4 text-3xl md:text-5xl font-bold text-gray-800">
-          Hear What Our <br />
-          <span className="bg-gradient-to-r from-[#E2335F] to-[#792F6C] bg-clip-text text-transparent">
-            Clients
-          </span>{" "}
-          Have to Say
-        </h2>
-        <p className="mt-2 text-gray-700 text-lg md:text-xl max-w-2xl mx-auto">
-          Read what our clients have to say about their experience with us.
-        </p>
-      </div>
-
-      {/* Mobile scrollable */}
-      <div className="sm:hidden overflow-x-auto">
-        <div className="flex gap-4 min-w-max px-2">
-          {testimonials.map((testimonial, index) => (
-            <div key={index} className="flex-shrink-0 w-56 h-56 aspect-square">
-              <TestimonialCard {...testimonial} />
-            </div>
-          ))}
+          <h2 className="mt-4 text-3xl md:text-5xl font-bold text-gray-800">
+            Hear What Our <br />
+            <span className="bg-gradient-to-r from-[#E2335F] to-[#792F6C] bg-clip-text text-transparent">
+              Clients
+            </span>{" "}
+            Have to Say
+          </h2>
+          <p className="mt-2 text-gray-700 text-lg md:text-xl max-w-2xl mx-auto">
+            Read what our clients have to say about their experience with us.
+          </p>
         </div>
-      </div>
 
-      {/* Desktop grid remains unchanged */}
-      <div className="hidden sm:flex justify-center">
-        <div className="grid grid-cols-2 gap-4 max-w-3xl ">
-          {testimonials[0] && <div className="aspect-square"><TestimonialCard {...testimonials[0]} /></div>}
-          {testimonials[1] && <div className="aspect-[4/3]"><TestimonialCard {...testimonials[1]} /></div>}
-          {testimonials[2] && <div className="aspect-[4/3]"><TestimonialCard {...testimonials[2]} /></div>}
-          {testimonials[3] && <div className="aspect-square -mt-24"><TestimonialCard {...testimonials[3]} /></div>}
+        {/* Mobile scrollable */}
+        <div className="sm:hidden overflow-x-auto">
+          <div className="flex gap-4 min-w-max px-2">
+            {testimonials.map((testimonial, index) => (
+              <div key={index} className="flex-shrink-0 w-56 h-56 aspect-square">
+                <TestimonialCard {...testimonial} />
+              </div>
+            ))}
+          </div>
         </div>
-      </div>
-    </section>
-</div>
+
+        {/* Desktop grid remains unchanged */}
+        <div className="hidden sm:flex justify-center">
+          <div className="grid grid-cols-2 gap-4 max-w-3xl ">
+            {testimonials[0] && <div className="aspect-square"><TestimonialCard {...testimonials[0]} /></div>}
+            {testimonials[1] && <div className="aspect-[4/3]"><TestimonialCard {...testimonials[1]} /></div>}
+            {testimonials[2] && <div className="aspect-[4/3]"><TestimonialCard {...testimonials[2]} /></div>}
+            {testimonials[3] && <div className="aspect-square -mt-24"><TestimonialCard {...testimonials[3]} /></div>}
+          </div>
+        </div>
+      </section>
+    </div>
   );
 };
+
 
 export default TestimonialsSection;
