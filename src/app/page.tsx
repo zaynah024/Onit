@@ -13,24 +13,25 @@ import Container from './home/components/container';
 import MapSection from './home/components/map';
 import BuildSection from './home/components/build';
 import Footer from './home/components/footer';
+
 export default function App() {
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <Header />
-    <HeroSection />
-    <Companies />
-    <AboutUs />
-    <StatsSection />
-    <ServicesSection />
-    <TechStackSection />
-    <SolutionsSection />
-    <WorkProcess />
-    <Results />
-        <YourAdvantage />
-    <Container />
-    <MapSection />
-    <BuildSection />
-    <Footer />
+      <HeroSection />
+      <Companies />
+      <AboutUs />
+      <StatsSection />
+      <ServicesSection />
+      <TechStackSection />
+      <SolutionsSection />
+      <WorkProcess />
+      <Results />
+      <YourAdvantage />
+      <Container />
+      <MapSection />
+      <BuildSection />
+      <Footer />
     </div>
   );
 }
