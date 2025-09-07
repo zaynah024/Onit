@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Bunafr",
+    "description": "Bunafr is a smart home coffee roaster that enables greater supply chain efficiencies and the possibility to create an equitable society. We...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/bunafr",
+    "category": "Web Development"
+  },
+  {
+    "title": "Divinity Metals",
+    "description": "An elegant e-commerce platform for Divinity Metals, offering a seamless shopping experience for their gold collection and various jewelry...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/divinity-metals",
+    "category": "E-commerce"
+  },
+  {
+    "title": "Locker Room",
+    "description": "Locker Room is an app used by college athletes and fans to exchange video messages asking for shoutouts, coaching advice, or general...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/locker-room",
+    "category": "Mobile Apps"
+  },
+  {
+    "title": "NovaTech",
+    "description": "NovaTech helps enterprises transition to cloud-native infrastructure with secure, scalable solutions tailored for their needs...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/novatech",
+    "category": "Web Development"
+  },
+  {
+    "title": "GreenCart",
+    "description": "A sustainable e-commerce platform focused on eco-friendly products, empowering consumers to shop responsibly...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/greencart",
+    "category": "E-commerce"
+  },
+  {
+    "title": "FinTrust",
+    "description": "FinTrust delivers AI-driven financial advisory tools, helping individuals and businesses make smarter investment decisions...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/fintrust",
+    "category": "Web Development"
+  },
+  {
+    "title": "Foodify",
+    "description": "Foodify connects local restaurants with food lovers, enabling smooth ordering, delivery, and personalized recommendations...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/foodify",
+    "category": "E-commerce"
+  },
+  {
+    "title": "SkillHub",
+    "description": "An e-learning marketplace where instructors can share knowledge and students can learn anytime, anywhere...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/skillhub",
+    "category": "Web Development"
+  },
+  {
+    "title": "TravelNest",
+    "description": "A travel booking platform that helps users find curated trips, unique stays, and personalized vacation packages...",
+    "imageSrc": "/images/home/Bunafr.png",
+    "caseStudyLink": "/case-studies/travelnest",
+    "category": "E-commerce"
+  }
+]

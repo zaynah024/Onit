@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "icon": "/images/icons/healthcare.svg",
+    "title": "HealthCare",
+    "slug": "healthcare",
+    "description": "Creating smart apps.",
+    "heroText": "HealthCare Industry",
+    "detailText": "We deliver secure, innovative IT solutions that help healthcare providers streamline operations and improve patient care.",
+    "features": [
+      { "icon": "comprehensive", "title": "Comprehensive IT Solutions", "description": "We provide healthcare IT solutions that address every aspect of your organization’s needs. From EHR/EMR systems to patient engagement platforms, our healthcare software solutions ensure seamless integration and deliver measurable results." },
+      { "icon": "patient-focused", "title": "Patient-Focused Software", "description": "Our IT services for healthcare prioritize patient care, enhancing access, communication, and overall health outcomes through cutting-edge technology." },
+      { "icon": "compliance", "title": "Compliance and Security", "description": "With in-depth knowledge of HIPAA, GDPR, and other healthcare regulations, we deliver healthcare software solutions designed to keep your systems secure and compliant." },
+      { "icon": "analytics", "title": "Data-Powered Insights", "description": "Empower your organization with advanced analytics and AI tools. Our healthcare IT solutions help providers harness data to improve care and streamline operations." }
+    ],
+    "ctaText": "Ask What OmniGlobal can do for you",
+    "image": "/images/home/healthcare1.png",
+    "solutions": [
+      "Telehealth Services",
+      "Artificial Intelligence",
+      "Medical Chatbots",
+      "Mobile Healthcare Apps",
+      "Electronic Data Management Systems",
+      "Blockchain",
+      "Cloud Computing",
+      "Digital Supply Chains",
+      "Hyper-Personalized Medicine"
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "/images/icons/finance.svg",
+    "title": "Finance & Banking",
+    "slug": "finance-banking",
+    "description": "Reliable online performance.",
+    "heroText": "Finance & Banking Industry",
+    "detailText": "Our digital banking solutions enable secure transactions, enhance customer experiences, and support financial institutions in adapting to the evolving fintech landscape.",
+    "features": [
+      { "icon": "secure", "title": "Secure Transactions", "description": "We provide platforms for secure online and mobile banking transactions, ensuring data integrity and user trust." },
+      { "icon": "customer-centric", "title": "Customer-Centric Tools", "description": "Enhance user experience with intuitive dashboards, personalized insights, and easy account management." },
+      { "icon": "compliance", "title": "Regulatory Compliance", "description": "Our solutions adhere to financial regulations and standards, maintaining compliance across regions." },
+      { "icon": "analytics", "title": "Financial Analytics", "description": "Enable institutions to leverage data analytics for risk management, forecasting, and informed decision-making." }
+    ],
+    "ctaText": "Explore Finance Solutions",
+    "image": "/images/home/finance1.png",
+    "solutions": [
+      "Digital Banking Platforms",
+      "Payment Gateways",
+      "Financial Chatbots",
+      "Fraud Detection Systems",
+      "Mobile Banking Apps",
+      "Blockchain for Finance",
+      "Risk Management Tools",
+      "Financial Analytics",
+      "Regulatory Reporting Solutions"
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "/images/icons/sports.svg",
+    "title": "Sports",
+    "slug": "sports",
+    "description": "Optimizing business operations.",
+    "heroText": "Sports Industry",
+    "detailText": "From fan engagement apps to advanced analytics platforms, we create innovative solutions that empower sports organizations to grow and connect with audiences worldwide.",
+    "features": [
+      { "icon": "fan-engagement", "title": "Fan Engagement Platforms", "description": "Connect teams and fans through apps, live updates, and interactive experiences." },
+      { "icon": "player-analytics", "title": "Player Analytics", "description": "Advanced performance tracking and analytics for athletes and teams." },
+      { "icon": "secure-event", "title": "Secure Event Management", "description": "Tools to manage ticketing, access control, and secure operations." },
+      { "icon": "sports-analytics", "title": "Sports Analytics", "description": "Data-driven insights to improve strategies and business decisions." }
+    ],
+    "ctaText": "See Sports Solutions",
+    "image": "/images/home/sports1.png",
+    "solutions": [
+      "Fan Engagement Apps",
+      "Team Performance Analytics",
+      "Event Management Systems",
+      "Ticketing Solutions",
+      "Sports Media Platforms",
+      "Athlete Management Tools",
+      "Sports IoT Wearables",
+      "Virtual Coaching Platforms"
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "/images/icons/education.svg",
+    "title": "Education",
+    "slug": "education",
+    "description": "Building digital experiences.",
+    "heroText": "Education Industry",
+    "detailText": "We design e-learning platforms and digital tools that make education accessible, interactive, and engaging for learners and institutions alike.",
+    "features": [
+      { "icon": "comprehensive", "title": "E-Learning Platforms", "description": "Scalable learning management systems for schools and universities." },
+      { "icon": "student-engagement", "title": "Student Engagement", "description": "Interactive tools for learners to enhance collaboration and retention." },
+      { "icon": "secure-data", "title": "Secure Education Data", "description": "Ensure student data privacy and institutional compliance." },
+      { "icon": "analytics", "title": "Learning Analytics", "description": "Track progress and optimize teaching with actionable insights." }
+    ],
+    "ctaText": "Explore Education Tools",
+    "image": "/images/home/education1.png",
+    "solutions": [
+      "Learning Management Systems",
+      "Online Courses",
+      "Virtual Classrooms",
+      "Student Engagement Platforms",
+      "Assessment Tools",
+      "Education Analytics",
+      "Digital Libraries",
+      "Collaborative Learning Tools"
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "/images/icons/energy.svg",
+    "title": "Renewable Energy",
+    "slug": "renewable-energy",
+    "description": "Boosting online visibility.",
+    "heroText": "Renewable Energy Industry",
+    "detailText": "Our technology solutions support clean energy providers by improving efficiency, enabling smarter energy management, and driving sustainability initiatives.",
+    "features": [
+      { "icon": "energy-management", "title": "Energy Management Systems", "description": "Optimize energy production and consumption for renewable providers." },
+      { "icon": "smart-monitoring", "title": "Smart Monitoring", "description": "Real-time monitoring of renewable energy assets." },
+      { "icon": "regulatory", "title": "Regulatory Compliance", "description": "Meet environmental and energy regulations efficiently." },
+      { "icon": "analytics", "title": "Data-Driven Insights", "description": "Analytics for operational efficiency and sustainability." }
+    ],
+    "ctaText": "Discover Energy Solutions",
+    "image": "/images/home/energy1.png",
+    "solutions": [
+      "Solar & Wind Monitoring",
+      "Energy Analytics Platforms",
+      "Smart Grid Solutions",
+      "IoT for Energy",
+      "Sustainability Dashboards",
+      "Energy Storage Management",
+      "Carbon Tracking Tools"
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "/images/icons/automobile.svg",
+    "title": "Automobiles",
+    "slug": "automobiles",
+    "description": "Simplifying sales management.",
+    "heroText": "Automobile Industry",
+    "detailText": "We deliver automotive digital platforms that streamline dealership operations, improve customer engagement, and support connected car technologies.",
+    "features": [
+      { "icon": "dealership", "title": "Dealership Management", "description": "Manage sales, inventory, and customer data efficiently." },
+      { "icon": "connected-car", "title": "Connected Car Platforms", "description": "Enhance vehicle experience with IoT and mobile apps." },
+      { "icon": "automotive-security", "title": "Automotive Security", "description": "Secure digital systems for vehicles and dealerships." },
+      { "icon": "vehicle-analytics", "title": "Vehicle Analytics", "description": "Leverage data for predictive maintenance and optimization." }
+    ],
+    "ctaText": "Explore Auto Solutions",
+    "image": "/images/home/automobiles1.png",
+    "solutions": [
+      "Dealership Management Systems",
+      "Connected Vehicle Platforms",
+      "Predictive Maintenance Tools",
+      "Vehicle Telematics",
+      "Sales Analytics Platforms",
+      "EV Charging Solutions",
+      "Automotive IoT Solutions"
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "/images/icons/govt.svg",
+    "title": "Government & NGOs",
+    "slug": "government-ngos",
+    "description": "Protecting digital assets.",
+    "heroText": "Government & NGOs",
+    "detailText": "We provide secure, citizen-focused solutions that enable governments and NGOs to deliver efficient services, enhance transparency, and protect sensitive data.",
+    "features": [
+      { "icon": "digital-services", "title": "Digital Services", "description": "Citizen portals and e-governance platforms." },
+      { "icon": "transparency", "title": "Transparency Tools", "description": "Solutions to enhance accountability and trust." },
+      { "icon": "data-security", "title": "Data Security", "description": "Protect sensitive government and NGO data." },
+      { "icon": "analytics", "title": "Operational Insights", "description": "Analytics to optimize services and workflows." }
+    ],
+    "ctaText": "See Government Solutions",
+    "image": "/images/home/government1.png",
+    "solutions": [
+      "Citizen Service Portals",
+      "Digital Identity Management",
+      "Government Analytics",
+      "NGO Impact Dashboards",
+      "Secure Document Management",
+      "Compliance Reporting Tools",
+      "E-Governance Platforms"
+    ]
+  },
+  {
+    "id": 8,
+    "icon": "/images/icons/logi.svg",
+    "title": "Logistics & Supply Chain",
+    "slug": "logistics-supply-chain",
+    "description": "Intuitive user experiences.",
+    "heroText": "Logistics & Supply Chain Industry",
+    "detailText": "Our digital logistics solutions optimize supply chains, improve tracking, and streamline delivery operations for maximum efficiency.",
+    "features": [
+      { "icon": "supply-chain", "title": "Supply Chain Optimization", "description": "Optimize routing, inventory, and operations." },
+      { "icon": "tracking", "title": "Real-Time Tracking", "description": "Track shipments and vehicles live." },
+      { "icon": "compliance", "title": "Compliance Management", "description": "Ensure safety and legal compliance." },
+      { "icon": "analytics", "title": "Performance Analytics", "description": "Use data to improve supply chain efficiency." }
+    ],
+    "ctaText": "Explore Logistics Solutions",
+    "image": "/images/home/logistics1.png",
+    "solutions": [
+      "Fleet Management Systems",
+      "Inventory Tracking Platforms",
+      "Route Optimization Tools",
+      "Warehouse Management Systems",
+      "Supply Chain Analytics",
+      "IoT Tracking Solutions"
+    ]
+  },
+  {
+    "id": 9,
+    "icon": "/images/icons/home.svg",
+    "title": "Home Appliances",
+    "slug": "home-appliances",
+    "description": "Smart connected devices.",
+    "heroText": "Home Appliances Industry",
+    "detailText": "We enable manufacturers to create smart, connected appliances that integrate seamlessly with modern lifestyles and IoT ecosystems.",
+    "features": [
+      { "icon": "smart-devices", "title": "Smart Device Platforms", "description": "Manage and control appliances via apps." },
+      { "icon": "ux", "title": "User Experience", "description": "Intuitive interfaces for easy control." },
+      { "icon": "data-security", "title": "Data Security", "description": "Protect user data and device connections." },
+      { "icon": "analytics", "title": "Analytics & Insights", "description": "Optimize appliance performance and usage." }
+    ],
+    "ctaText": "See Home Appliance Solutions",
+    "image": "/images/home/homeappliances1.png",
+    "solutions": [
+      "IoT Appliance Platforms",
+      "Smart Home Integrations",
+      "Usage Analytics",
+      "Remote Control Apps",
+      "Energy Efficiency Tools",
+      "Predictive Maintenance"
+    ]
+  },
+  {
+    "id": 10,
+    "icon": "/images/icons/tourism.svg",
+    "title": "Tourism & Hospitality",
+    "slug": "tourism-hospitality",
+    "description": "Driving online sales.",
+    "heroText": "Tourism & Hospitality Industry",
+    "detailText": "We design booking platforms and digital experiences that help tourism providers attract customers, increase loyalty, and enhance travel experiences.",
+    "features": [
+      { "icon": "booking", "title": "Booking Platforms", "description": "Manage reservations, payments, and customer data." },
+      { "icon": "customer-engagement", "title": "Customer Engagement", "description": "Enhance traveler experience through apps." },
+      { "icon": "data-compliance", "title": "Data Compliance", "description": "Protect sensitive customer and travel information." },
+      { "icon": "analytics", "title": "Operational Insights", "description": "Analytics to optimize hospitality services." }
+    ],
+    "ctaText": "Explore Tourism Solutions",
+    "image": "/images/home/tourism1.png",
+    "solutions": [
+      "Booking Engines",
+      "Customer Loyalty Platforms",
+      "Travel Analytics",
+      "Digital Concierge Services",
+      "Hotel Management Systems",
+      "Tourism Marketing Tools"
+    ]
+  },
+  {
+    "id": 11,
+    "icon": "/images/icons/realestate.svg",
+    "title": "Real Estate",
+    "slug": "real-estate",
+    "description": "Creative visual brand solutions.",
+    "heroText": "Real Estate Industry",
+    "detailText": "Our real estate solutions include property management systems, virtual tours, and customer portals that simplify transactions and boost engagement.",
+    "features": [
+      { "icon": "property-management", "title": "Property Management", "description": "Manage listings, tenants, and sales online." },
+      { "icon": "virtual-tours", "title": "Virtual Tours", "description": "Immersive experiences for buyers and renters." },
+      { "icon": "secure-transactions", "title": "Secure Transactions", "description": "Ensure safe and compliant deals." },
+      { "icon": "analytics", "title": "Market Analytics", "description": "Insights to improve decision-making." }
+    ],
+    "ctaText": "See Real Estate Solutions",
+    "image": "/images/home/realestate1.png",
+    "solutions": [
+      "Property Management Systems",
+      "Virtual Reality Tours",
+      "Tenant Portals",
+      "Market Analytics Tools",
+      "Real Estate CRMs",
+      "Online Listings Platforms"
+    ]
+  },
+  {
+    "id": 12,
+    "icon": "/images/icons/constuction.svg",
+    "title": "Construction Materials",
+    "slug": "construction-materials",
+    "description": "Tailored software solutions.",
+    "heroText": "Construction Materials Industry",
+    "detailText": "We develop digital platforms for construction businesses to manage projects, streamline procurement, and improve operational efficiency.",
+    "features": [
+      { "icon": "project-management", "title": "Project Management", "description": "Plan and track construction projects effectively." },
+      { "icon": "inventory-management", "title": "Inventory Management", "description": "Optimize materials procurement and stock." },
+      { "icon": "safety-compliance", "title": "Safety & Compliance", "description": "Ensure adherence to regulations and standards." },
+      { "icon": "analytics", "title": "Operational Insights", "description": "Use analytics to improve efficiency and reduce costs." }
+    ],
+    "ctaText": "Explore Construction Solutions",
+    "image": "/images/home/construction1.png",
+    "solutions": [
+      "Project Management Platforms",
+      "Materials Procurement Tools",
+      "Safety Compliance Systems",
+      "Inventory Tracking Solutions",
+      "Construction Analytics Tools"
+    ]
+  },
+  {
+    "id": 13,
+    "icon": "/images/icons/telecom.svg",
+    "title": "Telecommunication",
+    "slug": "telecommunication",
+    "description": "Driving online sales.",
+    "heroText": "Telecommunication Industry",
+    "detailText": "Our telecom solutions improve connectivity, support network management, and deliver customer-centric digital experiences at scale.",
+    "features": [
+      { "icon": "network-management", "title": "Network Management", "description": "Monitor and optimize telecom networks efficiently." },
+      { "icon": "customer-experience", "title": "Customer Experience", "description": "Enhance user engagement with digital solutions." },
+      { "icon": "data-security", "title": "Data Security", "description": "Ensure privacy and secure communication." },
+      { "icon": "analytics", "title": "Analytics & Insights", "description": "Use data to optimize services and performance." }
+    ],
+    "ctaText": "See Telecom Solutions",
+    "image": "/images/home/telecom1.png",
+    "solutions": [
+      "Network Monitoring Systems",
+      "Customer Engagement Platforms",
+      "Telecom Analytics Tools",
+      "Data Security Solutions",
+      "IoT Connectivity Platforms",
+      "5G Network Solutions"
+    ]
+  },
+  {
+    "id": 14,
+    "icon": "/images/icons/retail.svg",
+    "title": "Retail & E-commerce",
+    "slug": "retail-ecommerce",
+    "description": "Creative visual brand solutions.",
+    "heroText": "Retail & E-commerce Industry",
+    "detailText": "We create e-commerce platforms and retail solutions that enhance shopping experiences, boost online sales, and strengthen brand loyalty.",
+    "features": [
+      { "icon": "ecommerce", "title": "E-commerce Platforms", "description": "Create engaging online stores and marketplaces." },
+      { "icon": "customer-engagement", "title": "Customer Engagement", "description": "Enhance shopping experiences and loyalty." },
+      { "icon": "payment-security", "title": "Payment Security", "description": "Ensure safe transactions and PCI compliance." },
+      { "icon": "analytics", "title": "Sales Analytics", "description": "Use analytics to improve revenue and operations." }
+    ],
+    "ctaText": "Explore Retail Solutions",
+    "image": "/images/home/retail1.png",
+    "solutions": [
+      "Online Store Platforms",
+      "Customer Loyalty Tools",
+      "Payment Gateways",
+      "Inventory Management Systems",
+      "Sales Analytics Platforms",
+      "Personalized Shopping Experiences"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "date": "2 April",
+    "category": "Consulting",
+    "comments": 3,
+    "title": "Mastering Efficiency Tips and Tricks with our Zenfy",
+    "heroText": "Discover how Zenfy boosts productivity and efficiency for modern teams.",
+    "description": "In this blog, we share actionable tips and tricks to help you master efficiency using Zenfy.",
+    "author": "Jane Doe",
+    "imageUrl": "/images/home/image1.png",
+    "content": [
+      "<p>Zenfy is designed to streamline your workflow and boost team productivity. In this article, we’ll explore the top features and how to use them effectively.</p>",
+      "<p>Start by setting clear goals and using Zenfy’s dashboard to track progress. Leverage integrations for seamless communication and automate repetitive tasks.</p>",
+      "<p>Encourage your team to use Zenfy’s analytics tools to identify bottlenecks and optimize workflow efficiency. Schedule regular reviews to ensure everyone is aligned.</p>",
+      "<p>Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track.Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track.Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track. Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track.Remember to customize Zenfy notifications and reminders to reduce distractions while keeping critical tasks on track.</p>"
+    ],
+    "related": ["2", "3"]
+  },
+  {
+    "id": "2",
+    "date": "15 March",
+    "category": "Development",
+    "comments": 5,
+    "title": "Top 10 Web Development Best Practices for 2025",
+    "heroText": "Stay ahead with the latest web development strategies for 2025.",
+    "description": "Explore the top 10 best practices every developer should know for building robust web applications.",
+    "author": "John Smith",
+    "imageUrl": "/images/home/image1.png",
+    "content": [
+      "<p>Web development is evolving rapidly. Here are the top 10 practices to follow in 2025 for scalable and maintainable code.</p>",
+      "<p>Focus on accessibility, performance, and security. Use modern frameworks and keep your dependencies up to date.</p>",
+      "<p>Implement proper testing strategies including unit, integration, and end-to-end tests. Automate build and deployment pipelines for consistency.</p>",
+      "<p>Leverage reusable components and maintain modular code to ensure better scalability and easier maintenance in the long run.</p>"
+    ],
+    "related": ["1", "3"]
+  },
+  {
+    "id": "3",
+    "date": "28 February",
+    "category": "Tech Insights",
+    "comments": 2,
+    "title": "How AI is Transforming Modern Businesses",
+    "heroText": "AI is revolutionizing industries. Learn how your business can benefit.",
+    "description": "We discuss the impact of AI on business processes and how to leverage it for growth.",
+    "author": "Alex Lee",
+    "imageUrl": "/images/home/image1.png",
+    "content": [
+      "<p>Artificial Intelligence is changing the way companies operate. From automation to data analysis, AI offers numerous benefits.</p>",
+      "<p>Implement AI solutions to optimize workflows and gain insights into customer behavior.</p>",
+      "<p>Adopt AI-driven analytics to predict trends and improve decision-making. Incorporate chatbots to enhance customer support efficiency.</p>",
+      "<p>Invest in AI training for employees to ensure they can leverage these tools effectively, promoting a culture of innovation.</p>"
+    ],
+    "related": ["1", "2"]
+  }
+]

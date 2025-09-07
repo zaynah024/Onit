@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Our Blogs",
+    "date": "July 25, 2025",
+    "title": "Mylar Bags Packaging: Cost and Benefits",
+    "description": "Lorem ipsum dolor is a dummy text used to display how the text will look when placed here.",
+    "imageUrl": "/images/home/image1.png"
+  },
+  {
+    "id": 2,
+    "category": "Our Blogs",
+    "date": "July 24, 2025",
+    "title": "How to Find Custom Boxes Manufacturers for Newly Launched Brands in USA?",
+    "description": "Lorem ipsum dolor is a dummy text used to display how the text will look when placed here.",
+    "imageUrl": "/images/home/image1.png"
+  },
+  {
+    "id": 3,
+    "category": "Our Blogs",
+    "date": "July 23, 2025",
+    "title": "Benefits of Sustainable Packaging for Small Businesses",
+    "description": "Lorem ipsum dolor is a dummy text used to display how the text will look when placed here.",
+    "imageUrl": "/images/home/image1.png"
+  }
+]

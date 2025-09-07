@@ -1,0 +1,291 @@
+[
+  {
+    "id": "1",
+    "slug": "web-development",
+    "title": "Web Development",
+    "description": "Modern and scalable",
+    "icon": "/images/icons/web.svg",
+    "heroText": "We craft web solutions that drive growth.",
+    "detailText": "Our web development team creates tailored digital experiences that combine performance, design, and scalability. From business websites to enterprise-level applications, we ensure your online presence is impactful and future-ready.",
+    "cardDetailText": "Build modern, responsive, and scalable websites that deliver both performance and user engagement.",
+    "image": "/images/home/servicedetail1.png",
+    "features": [
+      "Custom Website Design",
+      "Responsive Development",
+      "E-Commerce Solutions",
+      "CMS Integration",
+      "Performance Optimization",
+      "SEO-Friendly Development",
+      "Maintenance and Support"
+    ],
+    "serviceCards": [
+      {
+        "icon": "Brush",
+        "title": "Custom Website Design",
+        "description": "We create unique, brand-focused designs that reflect your identity."
+      },
+      {
+        "icon": "Code",
+        "title": "Responsive Development",
+        "description": "Optimized for all devices and screen sizes."
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce Solutions",
+        "description": "Scalable online stores with secure checkout."
+      },
+      {
+        "icon": "Zap",
+        "title": "Performance Optimization",
+        "description": "Fast-loading, reliable web applications."
+      },
+      {
+        "icon": "Globe",
+        "title": "SEO Friendly Development",
+        "description": "Improving visibility and driving organic traffic."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is Web Development and how does it work?",
+        "answer": "Web development involves creating websites and web applications that are accessible via browsers. We handle everything from frontend to backend to deliver seamless solutions."
+      },
+      {
+        "question": "Is this service suitable for my business?",
+        "answer": "Yes, we tailor solutions to fit startups, SMEs, and enterprises, ensuring scalability and performance."
+      },
+      {
+        "question": "What technologies do you use?",
+        "answer": "We use React, Next.js, Node.js, PHP, and other modern frameworks to build reliable solutions."
+      },
+      {
+        "question": "What technologies do you use?",
+        "answer": "We use React, Next.js, Node.js, PHP, and other modern frameworks to build reliable solutions."
+      },
+      {
+        "question": "What technologies do you use?",
+        "answer": "We use React, Next.js, Node.js, PHP, and other modern frameworks to build reliable solutions."
+      },{
+        "question": "What technologies do you use?",
+        "answer": "We use React, Next.js, Node.js, PHP, and other modern frameworks to build reliable solutions."
+      }
+    ],
+    "technologies": [
+      { "src": "/images/home/SVG (2).png", "name": "FIGMA" },
+      { "src": "/images/home/SVG (3).png", "name": "VISUAL STUDIO" },
+      { "src": "/images/home/SVG (4).png", "name": "GIT" },
+      { "src": "/images/home/SVG (5).png", "name": "REACT" },
+      { "src": "/images/home/SVG (9).png", "name": "PHP" },
+      { "src": "/images/home/SVG (8).png", "name": "MYSQL" },
+      { "src": "/images/home/SVG (7).png", "name": "GITLAB" },
+      { "src": "/images/home/SVG (6).png", "name": "AWS" }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "mobile-applications",
+    "title": "Mobile Applications",
+    "description": "IOS and Android apps",
+    "icon": "/images/icons/mobile.svg",
+    "heroText": "Delivering seamless mobile experiences.",
+    "detailText": "We specialize in creating apps that enhance engagement and deliver value. From concept to deployment, our mobile solutions are built to scale across platforms and devices.",
+    "cardDetailText": "From idea to launch, we build engaging apps that work smoothly across iOS and Android platforms.",
+    "image": "/images/home/servicedetail2.png",
+    "features": [
+      "Cross-Platform Apps",
+      "Native iOS and Android Development",
+      "UI/UX Focused",
+      "Scalable Architecture"
+    ],
+    "serviceCards": [
+      {
+        "icon": "Smartphone",
+        "title": "Native Apps",
+        "description": "High-performance iOS and Android apps."
+      },
+      {
+        "icon": "Layers",
+        "title": "Cross-Platform",
+        "description": "Build once, deploy on multiple platforms."
+      },
+      {
+        "icon": "User",
+        "title": "UI/UX Design",
+        "description": "Smooth interfaces that enhance user engagement."
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud Integration",
+        "description": "Sync apps seamlessly with cloud services."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you build both iOS and Android apps?",
+        "answer": "Yes, we build native and cross-platform solutions for both platforms."
+      },
+      {
+        "question": "Can you handle app store publishing?",
+        "answer": "Absolutely, we assist with end-to-end deployment on the App Store and Google Play."
+      }
+    ],
+    "technologies": [
+      { "src": "/images/home/SVG (2).png", "name": "FIGMA" },
+      { "src": "/images/home/SVG (3).png", "name": "VISUAL STUDIO" },
+      { "src": "/images/home/SVG (4).png", "name": "GIT" },
+      { "src": "/images/home/SVG (5).png", "name": "REACT NATIVE" },
+      { "src": "/images/home/SVG (6).png", "name": "FIREBASE" },
+      { "src": "/images/home/SVG (7).png", "name": "GITLAB" }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "cyber-security",
+    "title": "Cyber-Security",
+    "description": "Protecting digital assets.",
+    "icon": "/images/icons/cybersecurity.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail3.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "4",
+    "slug": "e-commerce",
+    "title": "E-Commerce",
+    "description": "Driving online sales.",
+    "icon": "/images/icons/ecommerce.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail4.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "5",
+    "slug": "hosting",
+    "title": "Hosting",
+    "description": "Reliable online performance.",
+    "icon": "/images/icons/hosting.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail5.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "6",
+    "slug": "seo",
+    "title": "SEO",
+    "description": "Boosting online visibility.",
+    "icon": "/images/icons/seo.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail6.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "7",
+    "slug": "ui-ux-design",
+    "title": "UI/UX Design",
+    "description": "Intuitive user experiences.",
+    "icon": "/images/icons/uiux.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail7.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "8",
+    "slug": "graphic-design",
+    "title": "Graphic Design",
+    "description": "Creative visual brand solutions.",
+    "icon": "/images/icons/graphicdesign.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail8.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "9",
+    "slug": "erp-systems",
+    "title": "ERP Systems",
+    "description": "Optimizing business operations.",
+    "icon": "/images/icons/erpsystems.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail9.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "10",
+    "slug": "pos",
+    "title": "POS",
+    "description": "Simplifying sales management.",
+    "icon": "/images/icons/pos.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail10.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "11",
+    "slug": "iot",
+    "title": "IOT",
+    "description": "Smart connected devices.",
+    "icon": "/images/icons/iot.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail11.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  },
+  {
+    "id": "12",
+    "slug": "custom-software",
+    "title": "Custom Software",
+    "description": "Tailored software solutions.",
+    "icon": "/images/icons/custom.svg",
+    "heroText": "",
+    "detailText": "",
+    "cardDetailText": "",
+    "image": "/images/home/servicedetail12.png",
+    "features": [],
+    "serviceCards": [],
+    "faqs": [],
+    "technologies": []
+  }
+]
